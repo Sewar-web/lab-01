@@ -73,7 +73,7 @@
 @media (min-width: 769px) and (max-width: 959px){
 
     body{
-        width: 780px;
+        width: 960px;
         margin: auto;  
     }  
     div{
@@ -138,6 +138,7 @@
         border-top: 0;
         border-left: 0ch;
     }
+
     
 }
 
@@ -204,4 +205,7 @@
  .e ,.g{
      border-right:0 ;
  }
+
+ 
+ 
 }
